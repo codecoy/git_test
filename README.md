@@ -1,1 +1,2 @@
-This is Coy's first git project!
+learn how to deconstruct and re-create web page, use dev tools, upload changes to git hub. 
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
